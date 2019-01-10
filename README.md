@@ -77,3 +77,6 @@ There are OS-specific limits as to how many watches can be created:
 * [notify](https://github.com/rjeczalik/notify)
 * [fsevents](https://github.com/fsnotify/fsevents)
 
+
+
+https://www.cnblogs.com/jkko123/p/7256927.html

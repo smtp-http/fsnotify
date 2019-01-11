@@ -1,4 +1,5 @@
 # File system notifications for Go
+See [File system motifications for python](https://www.cnblogs.com/iamlehaha/articles/6790700.html).
 
 [![GoDoc](https://godoc.org/github.com/fsnotify/fsnotify?status.svg)](https://godoc.org/github.com/fsnotify/fsnotify) [![Go Report Card](https://goreportcard.com/badge/github.com/fsnotify/fsnotify)](https://goreportcard.com/report/github.com/fsnotify/fsnotify)
 
